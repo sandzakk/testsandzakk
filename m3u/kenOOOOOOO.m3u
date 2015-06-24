@@ -1,0 +1,178 @@
+#EXTM3U
+
+#EXTINF:0,B92
+http://edge1.volim.tv/live/b92.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,HAPPY
+http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,HRT 1
+http://edge1.volim.tv/live/hrt_1.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,HRT 2
+http://edge1.volim.tv/live/hrt_2.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,KANAL 3
+http://edge1.volim.tv/live/kanal_3.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,PALMA PLUS
+http://edge1.volim.tv/live/palma.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:-1,OBN
+http://178.33.24.14:2502/posjetite...www.sipragezabava.com
+
+#EXTINF:0,PINK
+http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,PRVA TV
+http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:-1,NOVI PAZAR
+http://xrtvnovipazarx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,BHT
+http://178.33.24.14:2501/posjetite...www.sipragezabava.com
+
+#EXTINF:-1,FEDERALNA TV
+http://4.31.30.135:1935/st3fstv/4ios_Federalna_974816/chunklist_7455846356555462964131.m3u8
+
+#EXTINF:-1,NOVA TV
+http://178.33.24.14:2503/posjetite...www.sipragezabava.com
+
+#EXTINF:-1,Narodna TV Info
+rtmp://livestreamnarodna.dyndns.tv:22222/live/NarodnaTV
+
+#EXTINF:0,RTCG SAT
+http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,RTRS
+http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,RTS 1
+http://edge1.volim.tv/live/rts_1.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,RTS 2
+http://edge1.volim.tv/live/rts_2.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,RTV 1
+http://edge1.volim.tv/live/rtv_1.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,SOS
+http://edge1.volim.tv/live/sos.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,STUDIO B
+http://edge1.volim.tv/live/studio_b.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:-1,OTV Valentino
+http://62.112.54.4/hls/otv-valentino1.m3u8
+#EXTINF:-1,Hayat TV
+http://62.112.54.4/hls/hayat-tv1.m3u8
+#EXTINF:-1,Hayat PLUS
+http://62.112.54.4/hls/hayat-plus1.m3u8
+#EXTINF:-1,Hayat FOLK TV
+http://62.112.54.4/hls/hayatfolk-tv1.m3u8
+#EXTINF:-1,Hayatovci
+http://62.112.54.4/hls/hayatovci1.m3u8
+#EXTINF:-1,OBN
+http://62.112.54.4/hls/obn1.m3u8
+#EXTINF:-1,BN Music
+http://62.112.54.4/hls/bn-music1.m3u8
+#EXTINF:-1,Grand Narodna
+http://62.112.54.4/hls/grand-tv1.m3u8
+
+#EXTINF:-1,HRT 1
+http://213.5.58.58:1935/hrt_live/smil:hrt1.smil/nesto.m3u8
+#EXTINF:-1,HRT 2
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+#EXTINF:-1,HRT 3
+http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/nesto.m3u8
+#EXTINF:-1,HRT 4
+http://213.5.58.58:1935/hrt_live/smil:hrt4.smil/nesto.m3u8
+
+#EXTINF:-1,SPORT 1 HD
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8 
+
+#EXTINF:-1,AL JAZEERA balkans 
+http://www.nasatv.eu:80/live?channelId=50&uid=5&deviceUser=amer&devicePass=amer 
+
+#EXTINF:-1,BOSTEL
+http://str105mb.setplex.net:1935/st3fstv/2ios_bostel1_718787/chunklist_w1766658184.m3u8
+
+#EXTINF:-1,ALSAT 
+http://fms.zulu.mk:554/zulu/alsat_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,KANAL 5 
+http://fms.zulu.mk:554/zulu/kanal5_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,PLUS 5 
+http://fms.zulu.mk:554/zulu/kanal5plus_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,SITEL 
+http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,SITEL 3 
+http://fms.zulu.mk:554/zulu/sitel3_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,TELMA 
+http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,BTA 
+http://fms.zulu.mk:554/zulu/btr_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,MPT1 
+http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,HUTEL 
+http://fms.zulu.mk:1935/zulu/shutel_1/playlist.m3u8?
+
+
+#EXTINF:0,SUPER SPORTS 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:0,SUPER SPORTS 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:0,SUPER SPORTS 3
+http://81.7.13.162/hls/ss3/index.m3u8
+
+#EXTINF:0,HAPPY
+http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=5234dc000f5075ea1e1666165ba699ca6817b6c4
+
+#EXTINF:-1,Pink 2 
+http://best-shqip-iptv.blogdns.com/stream/pink2/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink M 
+http://best-shqip-iptv.blogdns.com/stream/PinkM/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink BIH 
+http://best-shqip-iptv.blogdns.com/stream/pinkbih/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,PinkPlus 
+http://best-shqip-iptv.blogdns.com/stream/PinkPlus/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink Live 
+http://best-shqip-iptv.blogdns.com/stream/pinklive/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink Reality 
+http://best-shqip-iptv.blogdns.com/stream/pinkreality/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink Premium 
+http://best-shqip-iptv.blogdns.com/stream/pinkpremium/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink Extra 
+http://best-shqip-iptv.blogdns.com/stream/pinkextra/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink Zabava 
+http://best-shqip-iptv.blogdns.com/stream/pinkzabava/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink Film 
+http://best-shqip-iptv.blogdns.com/stream/pinkfilm/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink Action 2 
+http://best-shqip-iptv.blogdns.com/stream/pinkaction2/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink Action 3 
+http://best-shqip-iptv.blogdns.com/stream/pinkaction3/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink Movie 2 
+http://best-shqip-iptv.blogdns.com/stream/pinkmovie2/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink Movie 3 
+http://best-shqip-iptv.blogdns.com/stream/pinkmovie3/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,PinkComedy 
+http://best-shqip-iptv.blogdns.com/stream/PinkComedy/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,PinkWestern 
+http://best-shqip-iptv.blogdns.com/stream/PinkWestern/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink Horor 
+http://best-shqip-iptv.blogdns.com/stream/pinkhoror/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,PinkSoap 
+http://best-shqip-iptv.blogdns.com/stream/PinkSoap/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,PinkWorld 
+http://best-shqip-iptv.blogdns.com/stream/PinkWorld/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink Pedia 
+http://best-shqip-iptv.blogdns.com/stream/pinkpedia/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,Pink Folk 
+http://best-shqip-iptv.blogdns.com/stream/pinkfolk/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,PinkFolk2 
+http://best-shqip-iptv.blogdns.com/stream/PinkFolk2/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,PinkMusic3 
+http://best-shqip-iptv.blogdns.com/stream/PinkMusic3/Zyrija-Jusufi0603/jusufizyrija0603 
+#EXTINF:-1,PinkandRoll 
+http://best-shqip-iptv.blogdns.com/stream/PinkandRoll/Zyrija-Jusufi0603/jusufizyrija0603
