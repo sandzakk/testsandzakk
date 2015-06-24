@@ -63,22 +63,8 @@ http://edge1.volim.tv/live/sos.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78c
 #EXTINF:0,STUDIO B
 http://edge1.volim.tv/live/studio_b.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
 
-#EXTINF:-1,OTV Valentino
-http://62.112.54.4/hls/otv-valentino1.m3u8
-#EXTINF:-1,Hayat TV
-http://62.112.54.4/hls/hayat-tv1.m3u8
-#EXTINF:-1,Hayat PLUS
-http://62.112.54.4/hls/hayat-plus1.m3u8
-#EXTINF:-1,Hayat FOLK TV
-http://62.112.54.4/hls/hayatfolk-tv1.m3u8
-#EXTINF:-1,Hayatovci
-http://62.112.54.4/hls/hayatovci1.m3u8
 #EXTINF:-1,OBN
 http://62.112.54.4/hls/obn1.m3u8
-#EXTINF:-1,BN Music
-http://62.112.54.4/hls/bn-music1.m3u8
-#EXTINF:-1,Grand Narodna
-http://62.112.54.4/hls/grand-tv1.m3u8
 
 #EXTINF:-1,HRT 1
 http://213.5.58.58:1935/hrt_live/smil:hrt1.smil/nesto.m3u8
