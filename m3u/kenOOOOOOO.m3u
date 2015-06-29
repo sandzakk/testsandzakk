@@ -33,6 +33,9 @@ http://xrtvnovipazarx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,BHT
 http://178.33.24.14:2501/posjetite...www.sipragezabava.com
 
+#EXTINF:-1,FACE TV
+http://178.33.24.14:2504/posjetite...www.sipragezabava.com
+
 #EXTINF:-1,FEDERALNA TV
 http://4.31.30.135:1935/st3fstv/4ios_Federalna_974816/chunklist_7455846356555462964131.m3u8
 
@@ -113,6 +116,15 @@ http://81.7.13.162/hls/ss3/index.m3u8
 
 #EXTINF:0,HAPPY
 http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=5234dc000f5075ea1e1666165ba699ca6817b6c4
+
+#EXTINF:0,arena sport 1 HD
+http://195.154.227.38:1935/Iive/arhd1lsh/playlist.m3u8
+#EXTINF:0,arena sport 2 HD
+http://195.154.227.38:1935/Iive/arhd2lsh/playlist.m3u8
+#EXTINF:0,arena sport 3 HD
+http://195.154.227.38:1935/Iive/arhd3lsh/playlist.m3u8
+#EXTINF:0,arena sport 4 HD
+http://195.154.227.38:1935/Iive/arhd4lsh/playlist.m3u8
 
 #EXTINF:-1,Pink 2 
 http://best-shqip-iptv.blogdns.com/stream/pink2/Zyrija-Jusufi0603/jusufizyrija0603 
