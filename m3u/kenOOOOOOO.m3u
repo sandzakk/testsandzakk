@@ -106,17 +106,6 @@ http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8?
 #EXTINF:-1,HUTEL 
 http://fms.zulu.mk:1935/zulu/shutel_1/playlist.m3u8?
 
-
-#EXTINF:0,SUPER SPORTS 1
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:0,SUPER SPORTS 2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:0,SUPER SPORTS 3
-http://81.7.13.162/hls/ss3/index.m3u8
-
-#EXTINF:0,HAPPY
-http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=5234dc000f5075ea1e1666165ba699ca6817b6c4
-
 #EXTINF:0,arena sport 1 HD
 http://195.154.227.38:1935/Iive/arhd1lsh/playlist.m3u8
 #EXTINF:0,arena sport 2 HD
