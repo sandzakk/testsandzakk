@@ -9,7 +9,8 @@ http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78
 #EXTINF:0,PINK
 http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
 
-#EXTINF:0, ON
+#EXTVLCOPT:network-caching=5000
+#EXTINF:0, OBNM
 http://balkanstream.com/stream/obn/mx001/qW79215FRE
 
 #EXTINF:-1,OBN
