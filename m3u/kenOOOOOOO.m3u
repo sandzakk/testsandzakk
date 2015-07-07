@@ -12,6 +12,10 @@ http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78
 #EXTINF:-1,OBN
 http://178.33.24.14:2502/posjetite...www.sipragezabava.com
 
+#EXTVLCOPT:network-caching=4500
+#EXTINF:0, OTV Valentino
+http://balkanstream.com/stream/otvvalentino/mx001/qW79215FRE
+
 #EXTINF:-1,BHT
 http://webtropia1.narodnatv.info:80/live?channelId=21&uid=819&deviceUser=suljo123&devicePass=suljo123
 
