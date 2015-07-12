@@ -2,6 +2,12 @@
 
 #EXTINF:0,Prva
 Http://87.116.166.242:81/streaming/prva.m3u8
+#EXTINF:0,Happy
+Http://87.116.166.242:81/streaming/happy.m3u8
+#EXTINF:0,OBN
+Http://87.116.166.242:81/streaming/obn.m3u8
+#EXTINF:0,Pink
+Http://87.116.166.242:81/streaming/pink.m3u8
 
 #EXTINF:0,HAPPY
 http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
