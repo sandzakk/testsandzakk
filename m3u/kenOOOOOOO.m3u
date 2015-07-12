@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0,Prva
+Http://87.116.166.242:81/streaming/prva.m3u8
+
 #EXTINF:0,HAPPY
 http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
 
@@ -115,4 +118,3 @@ http://fms.zulu.mk:554/zulu/btr_1/playlist_b125000_w1132785237.m3u8?
 http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8? 
 #EXTINF:-1,HUTEL 
 http://fms.zulu.mk:1935/zulu/shutel_1/playlist.m3u8?
-
