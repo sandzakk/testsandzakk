@@ -69,6 +69,13 @@ http://edge1.volim.tv/live/kanal_3.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8
 #EXTINF:0,PALMA PLUS
 http://edge1.volim.tv/live/palma.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
 
+#EXTINF:0,KCN 1
+rtmp://109.206.96.129/live/kcn1_1m.stream
+#EXTINF:0,KCN 2
+rtmp://109.206.96.129/live/kcn2_1m.stream
+#EXTINF:0,KCN 3
+rtmp://109.206.96.129/live/kcn3_1m.stream
+
 #EXTINF:-1,OBN
 http://62.112.54.4/hls/obn1.m3u8
 
