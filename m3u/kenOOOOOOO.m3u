@@ -33,23 +33,11 @@ http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
 #EXTINF:-1,BOSNA TV1
 http://bit.do/Y8Tv 
 
-#EXTINF:0,KANAL 3
-http://edge1.volim.tv/live/kanal_3.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+#EXTINF:0,BN 
+rtmp://109.206.96.129/live/bn_1m.stream
 
-#EXTINF:0,PALMA PLUS
-http://edge1.volim.tv/live/palma.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
-#EXTINF:-1,NOVA TV
-http://sangajstream.dyndns.biz:80/live?channelId=57&uid=819&deviceUser=suljo123&devicePass=suljo123
-
-#EXTINF:0,RTL - RTL
-http://sangajstream.dyndns.biz:80/live?channelId=58&uid=819&deviceUser=suljo123&devicePass=suljo123
-
-#EXTINF:0,RTL 2 - RTL 2
-http://sangajstream.dyndns.biz:80/live?channelId=59&uid=819&deviceUser=suljo123&devicePass=suljo123
-
-#EXTINF:0,BN Televizija
-http://sall1.homelinux.net:80/live?channelId=18&uid=819&deviceUser=suljo123&devicePass=suljo123
+#EXTINF:0,BN Music
+rtmp://109.206.96.129/live/bnmusic_1m.stream
 
 #EXTINF:-1,Narodna TV Info
 rtmp://livestreamnarodna.dyndns.tv:22222/live/NarodnaTV
@@ -74,6 +62,12 @@ http://edge1.volim.tv/live/sos.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78c
 
 #EXTINF:0,STUDIO B
 http://edge1.volim.tv/live/studio_b.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,KANAL 3
+http://edge1.volim.tv/live/kanal_3.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
+
+#EXTINF:0,PALMA PLUS
+http://edge1.volim.tv/live/palma.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
 
 #EXTINF:-1,OBN
 http://62.112.54.4/hls/obn1.m3u8
