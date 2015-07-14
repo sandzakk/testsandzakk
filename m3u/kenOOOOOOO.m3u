@@ -12,11 +12,11 @@ http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78
 #EXTINF:-1,FEDERALNA TV
 http://4.31.30.135:1935/st3fstv/4ios_Federalna_974816/chunklist_7455846356555462964131.m3u8
 
-#EXTINF:-1,NOVI PAZAR
-http://xrtvnovipazarx.api.channel.livestream.com/3.0/playlist.m3u8
-
 #EXTINF:0,HAYAT BiH HD
 http://stream1.dyndns.ws:99/live?channelId=16&uid=819&deviceUser=suljo123&devicePass=suljo123
+
+#EXTINF:-1,NOVI PAZAR
+http://xrtvnovipazarx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:0,B92
 http://edge1.volim.tv/live/b92.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
