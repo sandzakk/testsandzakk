@@ -2,10 +2,14 @@
 
 #EXTINF:0,Prva
 Http://87.116.166.242:81/streaming/prva.m3u8
+
 #EXTINF:0,Happy
 Http://87.116.166.242:81/streaming/happy.m3u8
+
+#EXTVLCOPT:network-caching=4500 
 #EXTINF:0,OBN
 http://balkanstream.com/stream/obn/putidoma22/udhfbu
+
 #EXTINF:0,Pink
 Http://87.116.166.242:81/streaming/pink.m3u8
 
