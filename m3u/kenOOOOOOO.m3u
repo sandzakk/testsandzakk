@@ -76,6 +76,9 @@ rtmp://109.206.96.129/live/kcn2_1m.stream
 #EXTINF:0,KCN 3
 rtmp://109.206.96.129/live/kcn3_1m.stream
 
+#EXTINF:0,Grand
+rtmp://109.206.96.129/live/grand_1m.stream
+
 #EXTINF:-1,OBN
 http://62.112.54.4/hls/obn1.m3u8
 
