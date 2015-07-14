@@ -5,12 +5,9 @@ Http://87.116.166.242:81/streaming/prva.m3u8
 
 #EXTINF:0,Happy
 Http://87.116.166.242:81/streaming/happy.m3u8
-
-#EXTVLCOPT:network-caching=4500 
+ 
 #EXTINF:0,OBN
-#EXTVLCOPT:network-caching=4500 
 http://balkanstream.com/stream/obn/putidoma22/udhfbu
-#EXTVLCOPT:network-caching=4500
 
 #EXTINF:0,Pink
 Http://87.116.166.242:81/streaming/pink.m3u8
@@ -23,15 +20,6 @@ http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78
 
 #EXTINF:0,PINK
 http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
-#EXTINF:-1,OBN
-http://178.33.24.14:2502/posjetite...www.sipragezabava.com
-
-#EXTINF:-1,BHT
-http://webtropia1.narodnatv.info:80/live?channelId=21&uid=819&deviceUser=suljo123&devicePass=suljo123
-
-#EXTINF:-1,FACE TV HD
-http://stream6.dyndns.tv:8888/live?channelId=15&uid=819&deviceUser=suljo123&devicePass=suljo123
 
 #EXTINF:-1,FEDERALNA TV
 http://4.31.30.135:1935/st3fstv/4ios_Federalna_974816/chunklist_7455846356555462964131.m3u8
