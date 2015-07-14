@@ -9,6 +9,9 @@ http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78
 #EXTINF:0,PINK
 http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
 
+#EXTINF:-1,OBN
+http://server2.balkantvmedia.com:8080/OBN?u=user161:p=dta8npZF
+
 #EXTINF:-1,FEDERALNA TV
 http://4.31.30.135:1935/st3fstv/4ios_Federalna_974816/chunklist_7455846356555462964131.m3u8
 
@@ -78,10 +81,6 @@ rtmp://109.206.96.129/live/kcn3_1m.stream
 
 #EXTINF:0,Grand
 rtmp://109.206.96.129/live/grand_1m.stream
-
-#EXTINF:-1,OBN
-http://62.112.54.4/hls/obn1.m3u8
-
 
 #EXTINF:-1,HRT 3
 http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/nesto.m3u8
