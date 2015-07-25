@@ -33,6 +33,13 @@ http://bit.do/Y8Tv
 #EXTINF:-1,Narodna TV Info
 rtmp://livestreamnarodna.dyndns.tv:22222/live/NarodnaTV
 
+#EXTINF:-1,DM Sat
+http://87.116.166.233:8322/
+
+#EXTINF:-1,BN
+http://87.116.166.233:8320/
+
+
 #EXTINF:0,RTCG SAT
 http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
 
