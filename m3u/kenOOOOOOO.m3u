@@ -15,14 +15,8 @@ http://server2.balkantvmedia.com:8080/OBN?u=user161:p=dta8npZF
 #EXTINF:-1,FEDERALNA TV
 http://4.31.30.135:1935/st3fstv/4ios_Federalna_974816/chunklist_7455846356555462964131.m3u8
 
-#EXTINF:0,HAYAT HD
-rtmp://109.206.96.129/live/hayat_1m.stream
-
 #EXTINF:-1,NOVI PAZAR
 http://xrtvnovipazarx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1,OTV Valentino
-rtmp://109.206.96.129/live/otv_1m.stream
 
 #EXTINF:0,B92
 http://edge1.volim.tv/live/b92.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
@@ -35,12 +29,6 @@ http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
 
 #EXTINF:-1,BOSNA TV1
 http://bit.do/Y8Tv 
-
-#EXTINF:0,BN 
-rtmp://109.206.96.129/live/bn_1m.stream
-
-#EXTINF:0,BN Music
-rtmp://109.206.96.129/live/bnmusic_1m.stream
 
 #EXTINF:-1,Narodna TV Info
 rtmp://livestreamnarodna.dyndns.tv:22222/live/NarodnaTV
