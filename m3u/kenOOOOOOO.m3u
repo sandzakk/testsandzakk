@@ -15,6 +15,9 @@ http://89.212.154.104:1234/udp/239.12.2.189:5000
 #EXTINF:0,Prvaa
 http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
 
+#EXTINF:0,happy.
+http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+
 #EXTINF:0,Pink reality
 http://bajaiptv.dyndns.org:8000/live/irfannbeckovic/irfannn482015/84.ts 
 
