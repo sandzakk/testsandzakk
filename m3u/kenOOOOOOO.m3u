@@ -10,7 +10,10 @@ http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78
 http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
 
 #EXTINF:0,OBN
-http://89.212.154.104:1234/udp/239.12.2.189:5000 
+http://89.212.154.104:1234/udp/239.12.2.189:5000
+
+#EXTINF:0,Pink reality
+http://bajaiptv.dyndns.org:8000/live/irfannbeckovic/irfannn482015/84.ts 
 
 #EXTINF:-1,FEDERALNA TV
 http://4.31.30.135:1935/st3fstv/4ios_Federalna_974816/chunklist_7455846356555462964131.m3u8
