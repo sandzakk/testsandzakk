@@ -12,6 +12,9 @@ http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78
 #EXTINF:0,OBN
 http://89.212.154.104:1234/udp/239.12.2.189:5000
 
+#EXTINF:0,OBN.
+http://edge1.volim.tv/live/obn.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+
 #EXTINF:0,Prvaa
 http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
 
