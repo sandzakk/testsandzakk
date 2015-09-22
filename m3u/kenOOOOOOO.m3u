@@ -53,3 +53,75 @@ http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/nesto.m3u8
 http://213.5.58.58:1935/hrt_live/smil:hrt4.smil/nesto.m3u8
 #EXTINF:-1,TOP SOUND
 http://topsound.multimediaiptv.net:8000/topsound
+
+#EXTINF:0,nova tv
+http://5.196.14.179:2503/dobro_dosli_na_www.sipragezabava.com
+#EXTINF:0,rtl hrvatska
+http://5.196.14.179:2511/dobro_dosli_na_www.sipragezabava.com
+#EXTINF:0,bht 1
+http://5.196.14.179:2501/dobro_dosli_na_www.sipragezabava.com
+#EXTINF:0,obn
+http://5.196.14.179:2502/dobro_dosli_na_www.sipragezabava.com
+#EXTINF:0,obn +
+http://5.196.14.179:2504/dobro_dosli_na_www.sipragezabava.com
+#EXTINF:0,face tv
+http://5.196.14.179:2505/dobro_dosli_na_www.sipragezabava.com
+#EXTINF:0,arenasport 1
+http://5.196.14.179:2509/dobro_dosli_na_www.sipragezabava.com
+#EXTINF:0,sk 1
+http://5.196.14.179:2508/dobro_dosli_na_www.sipragezabava.com
+
+#EXTM3U
+#EXTINF:-1 tvg-name="SPORTKLUB_1HR" tvg-logo="",SPORT KLUB 1
+http://server9.balkantvmedia.com:8080/SPORTKLUB_1HR?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="SPORTKLUB_2HR" tvg-logo="",SPORT KLUB 2
+http://server9.balkantvmedia.com:8080/SPORTKLUB_2HR?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="SPORTKLUB_3HR" tvg-logo="",SPORT KLUB 3
+http://server4.balkantvmedia.com:8080/SPORTKLUB_3HR?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="Sport_Klub_HD" tvg-logo="",Sport Klub HD
+http://server4.balkantvmedia.com:8080/Sport_Klub_HD?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="Sport_Klub_1HD" tvg-logo="",Sport Klub 1 HD
+http://server9.balkantvmedia.com:8080/Sport_Klub_1HD?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="Sport_Klub_2HD" tvg-logo="",Sport Klub 2 HD
+http://server9.balkantvmedia.com:8080/Sport_Klub_2HD?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="Sport_Klub_3HD" tvg-logo="",Sport Klub 3 HD
+http://server4.balkantvmedia.com:8080/Sport_Klub_3HD?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_1HR" tvg-logo="",ARENA SPORT 1 HR
+http://server9.balkantvmedia.com:8080/ARENA_SPORT_1HR?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_2HR" tvg-logo="",ARENA SPORT 2 HR
+http://server4.balkantvmedia.com:8080/ARENA_SPORT_2HR?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_3HR" tvg-logo="",ARENA SPORT 3 HR
+http://server4.balkantvmedia.com:8080/ARENA_SPORT_3HR?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_4HR" tvg-logo="",ARENA SPORT 4 HR
+http://server9.balkantvmedia.com:8080/ARENA_SPORT_4HR?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_1SR" tvg-logo="",ARENA SPORT 1 SR
+http://server4.balkantvmedia.com:8080/ARENA_SPORT_1SR?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_2SR" tvg-logo="",ARENA SPORT 2 SR
+http://server4.balkantvmedia.com:8080/ARENA_SPORT_2SR?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_3SR" tvg-logo="",ARENA SPORT 3 SR
+http://server4.balkantvmedia.com:8080/ARENA_SPORT_3SR?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_4SR" tvg-logo="",ARENA SPORT 4 SR
+http://server9.balkantvmedia.com:8080/ARENA_SPORT_4SR?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="ARENA_SPORT_5SR" tvg-logo="",ARENA SPORT 5 SR
+http://server9.balkantvmedia.com:8080/ARENA_SPORT_5SR?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="EUROSPORT_1SR" tvg-logo="",EUROSPORT 1 SR
+http://server9.balkantvmedia.com:8080/EUROSPORT_1SR?u=user329:p=jAiMJONu
+#EXTM3U
+#EXTINF:-1 tvg-name="EUROSPORT_2SR" tvg-logo="",EUROSPORT 2 SR
+http://server9.balkantvmedia.com:8080/EUROSPORT_2SR?u=user329:p=jAiMJONu
