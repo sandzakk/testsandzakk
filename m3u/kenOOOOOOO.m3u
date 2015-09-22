@@ -1,28 +1,36 @@
 #EXTM3U
-
-#EXTINF:0,HAPPY
-http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
-#EXTINF:0,PRVA TV
-http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
 #EXTINF:0,PINK
-http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
-#EXTINF:0,OBN
-http://89.212.154.104:1234/udp/239.12.2.189:5000
-
-#EXTINF:0,OBN.
-http://edge1.volim.tv/live/obn.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
-
-#EXTINF:0,Prvaa
-http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
-
-#EXTINF:0,happy.
-http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
-
-#EXTINF:0,Pink reality
-http://bajaiptv.dyndns.org:8000/live/irfannbeckovic/irfannn482015/84.ts 
+http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,PRVA TV
+http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,RTS 1
+http://edge1.volim.tv/live/rts_1.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,RTS 2
+http://edge1.volim.tv/live/rts_2.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,B92
+http://edge1.volim.tv/live/b92.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,HAPPY
+http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,HRT 1
+http://edge1.volim.tv/live/hrt_1.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,HRT 2
+http://edge1.volim.tv/live/hrt_2.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,KANAL 3
+http://edge1.volim.tv/live/kanal_3.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,SKY PLUS
+http://edge1.volim.tv/live/sky_plus.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,PALMA PLUS
+http://edge1.volim.tv/live/palma.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,RTCG SAT
+http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,RTRS
+http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,RTV 1
+http://edge1.volim.tv/live/rtv_1.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,SOS
+http://edge1.volim.tv1/live/sos.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,STUDIO B
+http://edge1.volim.tv/live/studio_b.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
 
 #EXTINF:-1,FEDERALNA TV
 http://4.31.30.135:1935/st3fstv/4ios_Federalna_974816/chunklist_7455846356555462964131.m3u8
@@ -30,64 +38,18 @@ http://4.31.30.135:1935/st3fstv/4ios_Federalna_974816/chunklist_7455846356555462
 #EXTINF:-1,NOVI PAZAR
 http://xrtvnovipazarx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:0,B92
-http://edge1.volim.tv/live/b92.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
 #EXTINF:-1,HRT 1
 http://213.5.58.58:1935/hrt_live/smil:hrt1.smil/nesto.m3u8
 
 #EXTINF:-1,HRT 2
 http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
 
-#EXTINF:-1,BOSNA TV1
-http://bit.do/Y8Tv 
-
 #EXTINF:-1,Narodna TV Info
 rtmp://livestreamnarodna.dyndns.tv:22222/live/NarodnaTV
-
-#EXTINF:0,RTCG SAT
-http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
-#EXTINF:0,RTRS
-http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
-#EXTINF:0,RTS 1
-http://edge1.volim.tv/live/rts_1.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
-#EXTINF:0,RTS 2
-http://edge1.volim.tv/live/rts_2.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
-#EXTINF:0,RTV 1
-http://edge1.volim.tv/live/rtv_1.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
-#EXTINF:0,SOS
-http://edge1.volim.tv/live/sos.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
-#EXTINF:0,STUDIO B
-http://edge1.volim.tv/live/studio_b.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
-#EXTINF:0,KANAL 3
-http://edge1.volim.tv/live/kanal_3.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
-#EXTINF:0,PALMA PLUS
-http://edge1.volim.tv/live/palma.stream/playlist.m3u8?hash=2baa99ec4c5c5141cd8d78ca3dfbbb6ece7745dc
-
-#EXTINF:0,Grand
-rtmp://109.206.96.129/live/grand_1m.stream
 
 #EXTINF:-1,HRT 3
 http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/nesto.m3u8
 #EXTINF:-1,HRT 4
 http://213.5.58.58:1935/hrt_live/smil:hrt4.smil/nesto.m3u8
-
-#EXTINF:-1,BOSNA TV1
-http://5.153.25.7:8080/stream/?channel=promotv?stream=1mb?sp=nettvplus?u=smin
-
 #EXTINF:-1,TOP SOUND
 http://topsound.multimediaiptv.net:8000/topsound
-
-#EXTINF:-1,SPORT 1 HD
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8 
-
-#EXTINF:0,Nickelodeon
-http://portal.rapidiptv.com:8080/live/trial/3210/6083.ts
