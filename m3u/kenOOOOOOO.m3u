@@ -51,25 +51,7 @@ rtmp://livestreamnarodna.dyndns.tv:22222/live/NarodnaTV
 http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/nesto.m3u8
 #EXTINF:-1,HRT 4
 http://213.5.58.58:1935/hrt_live/smil:hrt4.smil/nesto.m3u8
-#EXTINF:-1,TOP SOUND
-http://topsound.multimediaiptv.net:8000/topsound
 
-#EXTINF:0,nova tv
-http://5.196.14.179:2503/dobro_dosli_na_www.sipragezabava.com
-#EXTINF:0,rtl hrvatska
-http://5.196.14.179:2511/dobro_dosli_na_www.sipragezabava.com
-#EXTINF:0,bht 1
-http://5.196.14.179:2501/dobro_dosli_na_www.sipragezabava.com
-#EXTINF:0,obn
-http://5.196.14.179:2502/dobro_dosli_na_www.sipragezabava.com
-#EXTINF:0,obn +
-http://5.196.14.179:2504/dobro_dosli_na_www.sipragezabava.com
-#EXTINF:0,face tv
-http://5.196.14.179:2505/dobro_dosli_na_www.sipragezabava.com
-#EXTINF:0,arenasport 1
-http://5.196.14.179:2509/dobro_dosli_na_www.sipragezabava.com
-#EXTINF:0,sk 1
-http://5.196.14.179:2508/dobro_dosli_na_www.sipragezabava.com
 
 #EXTM3U
 #EXTINF:-1 tvg-name="SPORTKLUB_1HR" tvg-logo="",SPORT KLUB 1
