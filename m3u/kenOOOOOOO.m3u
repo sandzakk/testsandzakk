@@ -153,3 +153,5 @@ http://server9.balkantvmedia.com:8080/EUROSPORT_1SR?u=user329:p=jAiMJONu
 #EXTM3U
 #EXTINF:-1 tvg-name="EUROSPORT_2SR" tvg-logo="",EUROSPORT 2 SR
 http://server9.balkantvmedia.com:8080/EUROSPORT_2SR?u=user329:p=jAiMJONu
+#EXTINF:-1 nant
+http://edge.ultracast.me:1935/live/7beinI2LZS/playlist.m3u8?Token
